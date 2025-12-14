@@ -1,0 +1,5 @@
+{
+  "name": "Nông Trại Vui Vẻ (Happy Farm)",
+  "description": "Một trò chơi nông trại thư giãn được xây dựng bằng React và Tailwind. Trồng trọt, thu hoạch, nấu ăn và nhận lời khuyên từ trợ lý AI Gemini.",
+  "requestFramePermissions": []
+}
